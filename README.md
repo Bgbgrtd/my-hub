@@ -1,5 +1,5 @@
 # my-hub
-
+dc=https://discord.com/channels/1339239515759575155/1339312690111447071
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
